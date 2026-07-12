@@ -19,4 +19,4 @@ I'm currently a 2nd year AI and Data Science student at Ramaiah Institute of Tec
 ---
 [![](https://komarev.com/ghpvc/?username=Rishi-ka-code&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
